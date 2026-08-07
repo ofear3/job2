@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+
+.news-logo {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+}
+
+
+
+#national, #politics, #sports, #education, #entertainment {
+    scroll-margin-top: 105px;
+}
