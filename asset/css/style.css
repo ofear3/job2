@@ -10,3 +10,25 @@
 #national, #politics, #sports, #education, #entertainment {
     scroll-margin-top: 105px;
 }
+
+
+/* Small devices */
+@media (max-width: 576px) {
+    .breaking-badge {
+        font-size: 11px !important;
+        padding: 6px 8px !important;
+        margin-right: 6px !important;
+    }
+
+    .breaking-badge i {
+        margin-right: 2px !important;
+    }
+}
+
+/* Extra small devices */
+@media (max-width: 400px) {
+    .breaking-badge {
+        font-size: 9px !important;
+        padding: 5px 6px !important;
+    }
+}
